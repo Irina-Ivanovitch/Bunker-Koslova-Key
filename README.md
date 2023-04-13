@@ -14,7 +14,7 @@ L'ouverture NECESSITE une carte d'accés.
 
 3- Le fichier mapgroupproto.xml ajoute les points de loots dans les bâtiments underground qui n'existent pas en vanilla, il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier mapgroupproto.xml
 
-4- Le fichier BunkerNokey.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
+4- Le fichier Bunker-Key.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
 
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
@@ -33,6 +33,6 @@ Opening REQUIRES an access card.
 3- The mapgroupproto.xml file adds loot points in underground buildings that do not exist in vanilla, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
 
 
-4- The BunkerNokey.dze file allows you via DayzEditor Loader to put this mapping on your server.
+4- The Bunker-Key.dze file allows you via DayzEditor Loader to put this mapping on your server.
 
 
