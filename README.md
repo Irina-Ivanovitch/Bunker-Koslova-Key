@@ -16,6 +16,10 @@ L'ouverture NECESSITE une carte d'accés.
 
 4- Le fichier Bunker-Key.dze vous permet via DayzEditor Loader de mettre ce mapping sur votre serveur.
 
+5- Il ne faut pas oublier de rajouter dans votre fichier types.xml la carte d'accés.
+
+6- Le fichier CardType.xml est là à titre d'exemple, ces quelques lignes permettent l'apparition d'une carte d'accès seulement en zone toxique fixe.
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Mapping an underground bunker on Chernarus for PC.
@@ -32,7 +36,9 @@ Opening REQUIRES an access card.
 
 3- The mapgroupproto.xml file adds loot points in underground buildings that do not exist in vanilla, just copy all the lines of the file and paste them into your own mapgroupproto.xml file
 
-
 4- The Bunker-Key.dze file allows you via DayzEditor Loader to put this mapping on your server.
 
+5- Do not forget to add in your file types.xml the access card.
+
+6- The CardType.xml file is there as an example, these few lines allow the appearance of an access card only in a fixed toxic zone.
 
