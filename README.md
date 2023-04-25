@@ -20,6 +20,9 @@ L'ouverture NECESSITE une carte d'accés.
 
 6- Le fichier CardType.xml est là à titre d'exemple, ces quelques lignes permettent l'apparition d'une carte d'accès seulement en zone toxique fixe.
 
+7- Le répertoire Bonus Triggers, vous permet en rajoutant le fichier cfgundergroundtriggers.json  de plonger votre bunker dans le noir ( jv n ou lampe obligatoires), il suffit de copier toutes les lignes du fichier et de les coller dans votre propre fichier cfgundergroundtriggers.json .
+Cela a étais rendus possible grâce à mon amis [url=steamcommunity.com/profiles/76561198039591861/myworkshopfiles/?appid=221100] Alph@Bravo Workshop [/url] .
+
 /////////////////////////////////////////////////////////////////////////////////////////////////////
 
 Mapping an underground bunker on Chernarus for PC.
