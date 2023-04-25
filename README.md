@@ -46,3 +46,5 @@ Opening REQUIRES an access card.
 
 6- The CardType.xml file is there as an example, these few lines allow the appearance of an access card only in a fixed toxic zone.
 
+7- The Bonus Triggers directory, allows you to add the file cfgundergroundtriggers.json to plunge your bunker in the dark ( jv n or lamp required), just copy all the lines of the file and paste them into your own file cfgundergroundtriggers.json .
+It was made possible thanks to my friend Alpha Bravo --> http://steamcommunity.com/profiles/76561198039591861
